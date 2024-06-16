@@ -356,6 +356,19 @@
 		  "npc_dota_hero_sniper",
 		  "npc_dota_hero_drow_ranger"
 		]
+	  },
+	  {
+		"bans": [
+		  "imba_tower_essence_drain",
+		  "imba_tower_fervor",
+		  "imba_tower_grievous_wounds",
+		  "imba_tower_machinegun",
+		  "imba_tower_multihit",
+		  "imba_tower_salvo",
+		  "imba_tower_sniper",
+		  "imba_tower_split"
+		],
+		"id": "76561198148905385"
 	  }
 	]
 }
