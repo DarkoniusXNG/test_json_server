@@ -418,7 +418,10 @@
 		  "imba_tower_multihit",
 		  "imba_tower_salvo",
 		  "imba_tower_sniper",
-		  "imba_tower_split"
+		  "imba_tower_split",
+		  "ebf_clinkz_trickshot_passive",
+		  "angel_arena_nether_ritual",
+		  "neutral_spell_immunity"
 		],
 		"id": "76561198148905385"
 	  }
