@@ -440,6 +440,14 @@
 		  "neutral_spell_immunity"
 		],
 		"id": "76561198148905385"
+	  },
+	  {
+		"bans": [
+		  "imba_tower_multihit",
+		  "ebf_clinkz_trickshot_passive",
+		  "angel_arena_razor_power_OP"
+		],
+		"id": "76561198224263264"
 	  }
 	]
 }
