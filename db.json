@@ -512,6 +512,15 @@
 		  "angel_arena_razor_power_OP"
 		],
 		"id": "76561198224263264"
+	  },
+	  {
+		"id": "76561198014602352",
+		"bans": [
+		  "bristleback_warpath",
+		  "huskar_berserkers_blood_lod",
+		  "bristleback_warpath_op",
+		  "roshan_spell_block"
+		]
 	  }
 	]
 }
