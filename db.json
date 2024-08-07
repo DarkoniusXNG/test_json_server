@@ -667,6 +667,12 @@
 		  "roshan_spell_block",
 		  "npc_dota_hero_bane"
 		]
+	  },
+	  {
+		"id": "76561198068954375",
+		"bans": [
+		  "ebf_clinkz_trickshot_passive"
+		]
 	  }
 	]
 }
