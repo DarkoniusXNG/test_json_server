@@ -538,9 +538,12 @@
 		  "arc_warden_tempest_double_op",
 		  "tornado_tempest",
 		  "backdoor_protection",
+		  "neutral_spell_immunity",
 		  "brewmaster_earth_spell_immunity",
 		  "miniboss_unyielding_shield",
-		  "miniboss_reflect"
+		  "miniboss_reflect",
+		  "life_stealer_infest",
+		  "phantom_lancer_juxtapose"
 		],
 		"id": "76561197998151342"
 	  },
