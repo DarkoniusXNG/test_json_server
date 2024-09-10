@@ -755,6 +755,14 @@
 		  "npc_dota_hero_drow_ranger",
 		  "npc_dota_hero_death_prophet"
 		]
+	  },
+	  {
+		"id": "76561198047484564",
+		"bans": [
+		  "death_prophet_silence",
+		  "npc_dota_hero_drow_ranger",
+		  "npc_dota_hero_death_prophet"
+		]
 	  }
 	]
 }
