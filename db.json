@@ -1087,7 +1087,6 @@
 		"id": "76561198290497913"
 	  },
 	  {
-		"id": "76561198070149308",
 		"bans": [
 		  "abaddon_borrowed_time",
 		  "skeleton_king_reincarnation",
@@ -1178,8 +1177,18 @@
 		  "npc_dota_hero_phantom_assassin",
 		  "earthshaker_aftershock",
 		  "npc_dota_hero_nevermore",
-		  "npc_dota_hero_sniper"
-		]
+		  "npc_dota_hero_sniper",
+		  "ursa_fury_swipes",
+		  "ursa_enrage",
+		  "phantom_assassin_immaterial",
+		  "marci_unleash",
+		  "alchemist_berserk_potion",
+		  "troll_warlord_berserkers_rage",
+		  "troll_warlord_rampage",
+		  "razor_eye_of_the_storm",
+		  "windrunner_windrun"
+		],
+		"id": "76561198070149308"
 	  }
 	]
 }
