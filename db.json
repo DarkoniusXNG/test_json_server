@@ -952,23 +952,6 @@
 	  },
 	  {
 		"bans": [
-		  "tinker_rearm",
-		  "meepo_divided_we_stand",
-		  "arc_warden_tempest_double",
-		  "arc_warden_tempest_double_op",
-		  "tornado_tempest",
-		  "backdoor_protection",
-		  "neutral_spell_immunity",
-		  "brewmaster_earth_spell_immunity",
-		  "miniboss_unyielding_shield",
-		  "miniboss_reflect",
-		  "life_stealer_infest",
-		  "phantom_lancer_juxtapose"
-		],
-		"id": "76561197998151342"
-	  },
-	  {
-		"bans": [
 		  "imba_tower_grievous_wounds",
 		  "imba_tower_essence_drain",
 		  "npc_dota_hero_death_prophet",
@@ -1098,29 +1081,6 @@
 		]
 	  },
 	  {
-		"id": "76561198062283160",
-		"bans": [
-		  "npc_dota_hero_axe",
-		  "npc_dota_hero_bristleback",
-		  "npc_dota_hero_chaos_knight",
-		  "npc_dota_hero_pudge",
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_lich",
-		  "npc_dota_hero_necrolyte",
-		  "npc_dota_hero_oracle",
-		  "npc_dota_hero_bane",
-		  "npc_dota_hero_windrunner",
-		  "npc_dota_hero_dazzle",
-		  "npc_dota_hero_bloodseeker",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_phantom_assassin",
-		  "npc_dota_hero_riki",
-		  "npc_dota_hero_sniper",
-		  "npc_dota_hero_drow_ranger",
-		  "npc_dota_hero_death_prophet"
-		]
-	  },
-	  {
 		"bans": [
 		  "npc_dota_hero_death_prophet",
 		  "death_prophet_silence",
@@ -1149,6 +1109,64 @@
 		  "enigma_black_hole"
 		],
 		"id": "76561198290497913"
+	  },
+	  {
+		"id": "76561197998151342",
+		"bans": [
+		  "tinker_rearm",
+		  "meepo_divided_we_stand",
+		  "arc_warden_tempest_double",
+		  "arc_warden_tempest_double_op",
+		  "tornado_tempest",
+		  "backdoor_protection",
+		  "neutral_spell_immunity",
+		  "brewmaster_earth_spell_immunity",
+		  "miniboss_unyielding_shield",
+		  "miniboss_reflect",
+		  "life_stealer_infest",
+		  "phantom_lancer_juxtapose",
+		  "summoner_tesla_coil",
+		  "imba_tower_plasma_field",
+		  "lina_banana",
+		  "lina_coconut",
+		  "lina_grapefruit",
+		  "lina_blazer",
+		  "imba_tower_grievous_wounds"
+		]
+	  },
+	  {
+		"id": "76561198165510020",
+		"bans": [
+		  "abaddon_borrowed_time",
+		  "npc_dota_hero_abaddon",
+		  "skeleton_king_reincarnation",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_slark"
+		]
+	  },
+	  {
+		"id": "76561198062283160",
+		"bans": [
+		  "npc_dota_hero_axe",
+		  "npc_dota_hero_bristleback",
+		  "npc_dota_hero_chaos_knight",
+		  "npc_dota_hero_pudge",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_lich",
+		  "npc_dota_hero_necrolyte",
+		  "npc_dota_hero_oracle",
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_windrunner",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_bloodseeker",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_phantom_assassin",
+		  "npc_dota_hero_riki",
+		  "npc_dota_hero_sniper",
+		  "npc_dota_hero_drow_ranger",
+		  "npc_dota_hero_death_prophet",
+		  "npc_dota_hero_warlock"
+		]
 	  },
 	  {
 		"bans": [
@@ -1250,7 +1268,8 @@
 		  "troll_warlord_berserkers_rage",
 		  "troll_warlord_rampage",
 		  "razor_eye_of_the_storm",
-		  "windrunner_windrun"
+		  "windrunner_windrun",
+		  "ogre_magi_smash"
 		],
 		"id": "76561198070149308"
 	  }
