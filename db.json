@@ -1179,16 +1179,6 @@
 		]
 	  },
 	  {
-		"id": "76561198165510020",
-		"bans": [
-		  "abaddon_borrowed_time",
-		  "npc_dota_hero_abaddon",
-		  "skeleton_king_reincarnation",
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_slark"
-		]
-	  },
-	  {
 		"id": "76561198062283160",
 		"bans": [
 		  "npc_dota_hero_axe",
@@ -1313,9 +1303,19 @@
 		  "troll_warlord_rampage",
 		  "razor_eye_of_the_storm",
 		  "windrunner_windrun",
-		  "ogre_magi_smash"
+		  "ogre_magi_smash",
+		  "tusk_walrus_kick"
 		],
 		"id": "76561198070149308"
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "npc_dota_hero_abaddon",
+		  "abaddon_borrowed_time"
+		],
+		"id": "76561198165510020"
 	  }
 	]
 }
