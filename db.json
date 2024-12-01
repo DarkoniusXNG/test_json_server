@@ -1028,22 +1028,6 @@
 	  },
 	  {
 		"bans": [
-		  "imba_tower_essence_drain",
-		  "imba_tower_fervor",
-		  "imba_tower_grievous_wounds",
-		  "imba_tower_machinegun",
-		  "imba_tower_multihit",
-		  "imba_tower_salvo",
-		  "imba_tower_sniper",
-		  "imba_tower_split",
-		  "ebf_clinkz_trickshot_passive",
-		  "angel_arena_nether_ritual",
-		  "neutral_spell_immunity"
-		],
-		"id": "76561198148905385"
-	  },
-	  {
-		"bans": [
 		  "imba_tower_multihit",
 		  "ebf_clinkz_trickshot_passive",
 		  "angel_arena_razor_power_OP"
@@ -1224,6 +1208,23 @@
 	  },
 	  {
 		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "npc_dota_hero_abaddon",
+		  "abaddon_borrowed_time"
+		],
+		"id": "76561198165510020"
+	  },
+	  {
+		"id": "76561198097124010",
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "abaddon_borrowed_time"
+		]
+	  },
+	  {
+		"bans": [
 		  "abaddon_borrowed_time",
 		  "skeleton_king_reincarnation",
 		  "riki_poison_dart",
@@ -1324,18 +1325,22 @@
 		  "razor_eye_of_the_storm",
 		  "windrunner_windrun",
 		  "ogre_magi_smash",
-		  "tusk_walrus_kick"
+		  "tusk_walrus_kick",
+		  "dazzle_rain_of_vermin"
 		],
 		"id": "76561198070149308"
 	  },
 	  {
 		"bans": [
-		  "npc_dota_hero_skeleton_king",
-		  "skeleton_king_reincarnation",
-		  "npc_dota_hero_abaddon",
-		  "abaddon_borrowed_time"
+		  "ebf_clinkz_trickshot_passive",
+		  "angel_arena_razor_power_OP",
+		  "angel_arena_nether_ritual",
+		  "imba_tower_grievous_wounds",
+		  "imba_tower_essence_drain",
+		  "imba_tower_multihit",
+		  "imba_tower_split"
 		],
-		"id": "76561198165510020"
+		"id": "76561198148905385"
 	  }
 	]
 }
