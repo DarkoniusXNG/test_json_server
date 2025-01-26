@@ -1841,7 +1841,18 @@
 		  "npc_dota_hero_winter_wyvern",
 		  "razor_static_link",
 		  "harpy_storm_chain_lightning",
-		  "kobold_disarm"
+		  "kobold_disarm",
+		  "lycan_summon_wolves_critical_strike",
+		  "phantom_lancer_juxtapose",
+		  "ice_shaman_incendiary_bomb",
+		  "phantom_assassin_immaterial",
+		  "tidehunter_dead_in_the_water",
+		  "npc_dota_hero_chaos_knight",
+		  "npc_dota_hero_faceless_void",
+		  "npc_dota_hero_night_stalker",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_sven",
+		  "npc_dota_hero_monkey_king"
 		],
 		"id": "76561198070149308"
 	  }
