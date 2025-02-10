@@ -1932,7 +1932,23 @@
 		  "npc_dota_hero_night_stalker",
 		  "npc_dota_hero_skeleton_king",
 		  "npc_dota_hero_sven",
-		  "npc_dota_hero_monkey_king"
+		  "npc_dota_hero_monkey_king",
+		  "furion_wrath_of_nature",
+		  "npc_dota_hero_snapfire",
+		  "npc_dota_hero_mars",
+		  "npc_dota_hero_keeper_of_the_light",
+		  "npc_dota_hero_ogre_magi",
+		  "npc_dota_hero_silencer",
+		  "npc_dota_hero_vengefulspirit",
+		  "npc_dota_hero_templar_assassin",
+		  "terrorblade_demon_zeal",
+		  "witch_doctor_voodoo_switcheroo",
+		  "death_prophet_mourning_ritual",
+		  "side_gunner_redux",
+		  "storm_spirit_galvanized",
+		  "wisp_sight_seer",
+		  "npc_dota_hero_warlock",
+		  "warlock_rain_of_chaos"
 		],
 		"id": "76561198070149308"
 	  }
