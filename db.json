@@ -2346,7 +2346,40 @@
 		]
 	  },
 	  {
-		"id": "76561198070149308",
+		"id": "76561198043770653",
+		"bans": [
+		  "slark_shadow_dance",
+		  "slark_essence_shift",
+		  "riki_permanent_invisibility",
+		  "riki_backstab",
+		  "npc_dota_hero_bloodseeker",
+		  "drow_ranger_wave_of_silence",
+		  "death_prophet_silence",
+		  "abaddon_borrowed_time",
+		  "dazzle_shallow_grave",
+		  "skywrath_mage_ancient_seal",
+		  "skeleton_king_bone_guard",
+		  "bane_nightmare"
+		]
+	  },
+	  {
+		"id": "76561198795621675",
+		"bans": [
+		  "npc_dota_hero_oracle"
+		]
+	  },
+	  {
+		"id": "76561198067066869",
+		"bans": [
+		  "ogre_magi_multicast",
+		  "alchemist_chemical_rage",
+		  "slark_shadow_dance",
+		  "ogre_magi_multicast_lod",
+		  "npc_dota_hero_oracle",
+		  "npc_dota_hero_bane"
+		]
+	  },
+	  {
 		"bans": [
 		  "harpy_storm_chain_lightning",
 		  "ice_shaman_incendiary_bomb",
@@ -2398,7 +2431,6 @@
 		  "earth_spirit_petrify",
 		  "earth_spirit_rolling_boulder",
 		  "drow_splitshot",
-		  "morphling_adaptive_strike_str",
 		  "spawnlord_master_bash",
 		  "ancient_golem_rockslide",
 		  "granite_golem_bash",
@@ -2521,9 +2553,6 @@
 		  "primal_beast_innate_slow_resistance_per_time",
 		  "muerta_grave_tracker",
 		  "magnus_magnetic_horn",
-		  "lich_variant_ice_rite",
-		  "lich_innate_chain_frost_projectile_speed",
-		  "lich_innate_chain_frost_bounces",
 		  "juggernaut_innate_mask_spin_crit",
 		  "juggernaut_innate_mask_crit_lifesteal",
 		  "gyrocopter_lock_on",
@@ -2576,25 +2605,36 @@
 		  "faceless_void_distortion_field",
 		  "meepo_megameepo",
 		  "arc_warden_tempest_recall",
-		  "arc_warden_tempest_double"
-		]
-	  },
-	  {
-		"id": "76561198043770653",
-		"bans": [
-		  "slark_shadow_dance",
-		  "slark_essence_shift",
-		  "riki_permanent_invisibility",
-		  "riki_backstab",
-		  "npc_dota_hero_bloodseeker",
-		  "drow_ranger_wave_of_silence",
-		  "death_prophet_silence",
-		  "abaddon_borrowed_time",
-		  "dazzle_shallow_grave",
-		  "skywrath_mage_ancient_seal",
-		  "skeleton_king_bone_guard",
-		  "bane_nightmare"
-		]
+		  "arc_warden_tempest_double",
+		  "chaos_knight_reins_of_chaos",
+		  "dark_seer_heart_of_battle",
+		  "winter_wyvern_essence_of_the_blueheart",
+		  "enigma_splitting_image",
+		  "meepo_pack_rat",
+		  "meepo_poof",
+		  "medusa_undulation",
+		  "keeper_of_the_light_mana_magnifier",
+		  "keeper_of_the_light_recall",
+		  "keeper_of_the_light_chakra_magic",
+		  "keeper_of_the_light_special_reserve",
+		  "doom_bringer_devils_bargain",
+		  "furion_force_of_nature",
+		  "hoodwink_decoy",
+		  "zuus_heavenly_jump",
+		  "zuus_lightning_hands",
+		  "snapfire_firesnap_cookie",
+		  "treant_natures_grasp",
+		  "necronomicon_archer_aoe_lod",
+		  "kobold_tunneler_prospecting",
+		  "ancient_apparition_cold_feet",
+		  "ancient_apparition_ice_age",
+		  "ancient_apparition_ice_vortex",
+		  "warlock_shadow_word",
+		  "warlock_upheaval",
+		  "warlock_fatal_bonds",
+		  "warlock_black_grimoire"
+		],
+		"id": "76561198070149308"
 	  }
 	]
 }
