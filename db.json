@@ -1702,30 +1702,6 @@
 		]
 	  },
 	  {
-		"id": "76561198062283160",
-		"bans": [
-		  "npc_dota_hero_axe",
-		  "npc_dota_hero_bristleback",
-		  "npc_dota_hero_chaos_knight",
-		  "npc_dota_hero_pudge",
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_lich",
-		  "npc_dota_hero_necrolyte",
-		  "npc_dota_hero_oracle",
-		  "npc_dota_hero_bane",
-		  "npc_dota_hero_windrunner",
-		  "npc_dota_hero_dazzle",
-		  "npc_dota_hero_bloodseeker",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_phantom_assassin",
-		  "npc_dota_hero_riki",
-		  "npc_dota_hero_sniper",
-		  "npc_dota_hero_drow_ranger",
-		  "npc_dota_hero_death_prophet",
-		  "npc_dota_hero_warlock"
-		]
-	  },
-	  {
 		"bans": [
 		  "npc_dota_hero_skeleton_king",
 		  "skeleton_king_reincarnation",
@@ -2683,6 +2659,84 @@
 		  "warlock_black_grimoire"
 		],
 		"id": "76561198070149308"
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_bristleback",
+		  "npc_dota_hero_axe",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_necrolyte",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_lich",
+		  "npc_dota_hero_lion",
+		  "npc_dota_hero_bloodseeker",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_riki",
+		  "npc_dota_hero_phantom_assassin"
+		],
+		"id": "76561198062283160"
+	  },
+	  {
+		"id": "76561198166020096",
+		"bans": [
+		  "axe_berserkers_call_op",
+		  "global_stun",
+		  "windrunner_gale_force_op",
+		  "invoker_chaos_meteor_op",
+		  "armageddon",
+		  "floor_is_lava",
+		  "mega_black_hole",
+		  "mega_call_down",
+		  "mega_chronosphere",
+		  "mega_eclipse",
+		  "mega_flare",
+		  "mega_freezing_field",
+		  "mega_omni_slash",
+		  "mega_suicide",
+		  "imba_tower_essence_drain",
+		  "imba_tower_fervor",
+		  "imba_tower_grievous_wounds",
+		  "imba_tower_machinegun",
+		  "imba_tower_multihit",
+		  "imba_tower_salvo",
+		  "imba_tower_sniper",
+		  "imba_tower_split",
+		  "lone_druid_savage_roar_op",
+		  "tinker_heat_seeking_missile_redux",
+		  "lina_grapefruit",
+		  "lina_banana",
+		  "lina_coconut",
+		  "backdoor_protection",
+		  "miniboss_minion_unyielding_shield",
+		  "miniboss_minion_deflecting_shield",
+		  "alchemist_goblins_greed_op",
+		  "invoker_sun_strike_lod_op",
+		  "ebf_clinkz_trickshot_passive",
+		  "angel_arena_razor_power_OP",
+		  "courier_shield",
+		  "faceless_void_chronosphere_op",
+		  "angel_arena_rifle_OP",
+		  "aabs_nightshadow_op",
+		  "arc_warden_tempest_double_op",
+		  "dark_seer_vacuum_op",
+		  "spawn_small_camp_op",
+		  "spawn_ancient_camp_op",
+		  "spawn_large_camp_op",
+		  "spawn_medium_camp_op",
+		  "bahamut_reckoning_aura",
+		  "imba_tower_atrophy",
+		  "imba_tower_mana_burn",
+		  "omniknight_degen_aura_tower",
+		  "omniknight_degen_aura_damage_tower",
+		  "vassal_shield"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_oracle"
+		],
+		"id": "76561198161051994"
 	  }
 	]
 }
