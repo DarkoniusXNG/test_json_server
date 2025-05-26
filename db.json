@@ -2890,7 +2890,29 @@
 		"id": "76561198062283160"
 	  },
 	  {
-		"id": "76561198166020096",
+		"bans": [
+		  "npc_dota_hero_oracle"
+		],
+		"id": "76561198161051994"
+	  },
+	  {
+		"id": "76561198040696305",
+		"bans": [
+		  "android_pocket_factory",
+		  "basic_xpm_bonus_op"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_viper",
+		  "npc_dota_hero_oracle",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_bane"
+		],
+		"id": "76561198143554846"
+	  },
+	  {
 		"bans": [
 		  "axe_berserkers_call_op",
 		  "global_stun",
@@ -2941,14 +2963,11 @@
 		  "imba_tower_mana_burn",
 		  "omniknight_degen_aura_tower",
 		  "omniknight_degen_aura_damage_tower",
-		  "vassal_shield"
-		]
-	  },
-	  {
-		"bans": [
-		  "npc_dota_hero_oracle"
+		  "vassal_shield",
+		  "slark_essence_shift_intellect_lod",
+		  "slark_essence_shift_strength_lod"
 		],
-		"id": "76561198161051994"
+		"id": "76561198166020096"
 	  }
 	]
 }
