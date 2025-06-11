@@ -2930,23 +2930,6 @@
 	  },
 	  {
 		"bans": [
-		  "npc_dota_hero_bane",
-		  "npc_dota_hero_bristleback",
-		  "npc_dota_hero_axe",
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_necrolyte",
-		  "npc_dota_hero_dazzle",
-		  "npc_dota_hero_lich",
-		  "npc_dota_hero_lion",
-		  "npc_dota_hero_bloodseeker",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_riki",
-		  "npc_dota_hero_phantom_assassin"
-		],
-		"id": "76561198062283160"
-	  },
-	  {
-		"bans": [
 		  "npc_dota_hero_oracle"
 		],
 		"id": "76561198161051994"
@@ -2969,6 +2952,7 @@
 		"id": "76561198143554846"
 	  },
 	  {
+		"id": "76561198166020096",
 		"bans": [
 		  "axe_berserkers_call_op",
 		  "global_stun",
@@ -3021,9 +3005,28 @@
 		  "omniknight_degen_aura_damage_tower",
 		  "vassal_shield",
 		  "slark_essence_shift_intellect_lod",
-		  "slark_essence_shift_strength_lod"
-		],
-		"id": "76561198166020096"
+		  "slark_essence_shift_strength_lod",
+		  "ability_mjolnir_op"
+		]
+	  },
+	  {
+		"id": "76561198062283160",
+		"bans": [
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_bristleback",
+		  "npc_dota_hero_axe",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_necrolyte",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_lich",
+		  "npc_dota_hero_lion",
+		  "npc_dota_hero_bloodseeker",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_riki",
+		  "npc_dota_hero_phantom_assassin",
+		  "npc_dota_hero_pudge",
+		  "npc_dota_hero_windrunner"
+		]
 	  }
 	]
 }
