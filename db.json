@@ -2647,23 +2647,6 @@
 		]
 	  },
 	  {
-		"bans": [
-		  "neutral_spell_immunity",
-		  "brewmaster_earth_spell_immunity",
-		  "ebf_clinkz_trickshot_passive",
-		  "angel_arena_razor_power_OP",
-		  "imba_tower_grievous_wounds",
-		  "imba_tower_essence_drain",
-		  "imba_tower_multihit",
-		  "imba_tower_salvo",
-		  "imba_tower_split",
-		  "imba_tower_fervor",
-		  "imba_tower_machinegun",
-		  "imba_tower_sniper"
-		],
-		"id": "76561198066846458"
-	  },
-	  {
 		"id": "76561198072213092",
 		"bans": [
 		  "npc_dota_hero_chaos_knight",
@@ -3063,6 +3046,23 @@
 		  "npc_dota_hero_pudge",
 		  "npc_dota_hero_windrunner"
 		]
+	  },
+	  {
+		"bans": [
+		  "neutral_spell_immunity",
+		  "brewmaster_earth_spell_immunity",
+		  "ebf_clinkz_trickshot_passive",
+		  "angel_arena_razor_power_OP",
+		  "imba_tower_grievous_wounds",
+		  "imba_tower_essence_drain",
+		  "imba_tower_multihit",
+		  "imba_tower_salvo",
+		  "imba_tower_split",
+		  "imba_tower_fervor",
+		  "imba_tower_machinegun",
+		  "imba_tower_sniper"
+		],
+		"id": "76561198066846458"
 	  }
 	]
 }
