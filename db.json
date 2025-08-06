@@ -2115,13 +2115,6 @@
 		"id": "76561198148905385"
 	  },
 	  {
-		"bans": [
-		  "basic_xpm_bonus",
-		  "angel_arena_razor_power"
-		],
-		"id": "76561198273382285"
-	  },
-	  {
 		"id": "76561198317406252",
 		"bans": [
 		  "alpha_wolf_command_aura",
@@ -2760,17 +2753,6 @@
 		]
 	  },
 	  {
-		"id": "76561198067066869",
-		"bans": [
-		  "ogre_magi_multicast",
-		  "alchemist_chemical_rage",
-		  "slark_shadow_dance",
-		  "ogre_magi_multicast_lod",
-		  "npc_dota_hero_oracle",
-		  "npc_dota_hero_bane"
-		]
-	  },
-	  {
 		"bans": [
 		  "harpy_storm_chain_lightning",
 		  "ice_shaman_incendiary_bomb",
@@ -3109,25 +3091,6 @@
 		]
 	  },
 	  {
-		"id": "76561198062283160",
-		"bans": [
-		  "npc_dota_hero_bane",
-		  "npc_dota_hero_bristleback",
-		  "npc_dota_hero_axe",
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_necrolyte",
-		  "npc_dota_hero_dazzle",
-		  "npc_dota_hero_lich",
-		  "npc_dota_hero_lion",
-		  "npc_dota_hero_bloodseeker",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_riki",
-		  "npc_dota_hero_phantom_assassin",
-		  "npc_dota_hero_pudge",
-		  "npc_dota_hero_windrunner"
-		]
-	  },
-	  {
 		"bans": [
 		  "neutral_spell_immunity",
 		  "brewmaster_earth_spell_immunity",
@@ -3143,6 +3106,58 @@
 		  "imba_tower_sniper"
 		],
 		"id": "76561198066846458"
+	  },
+	  {
+		"bans": [
+		  "imba_tower_multihit",
+		  "ogre_magi_multicast",
+		  "alchemist_chemical_rage",
+		  "slark_shadow_dance",
+		  "ogre_magi_multicast_lod",
+		  "npc_dota_hero_oracle",
+		  "npc_dota_hero_bane",
+		  "ebf_clinkz_trickshot_passive",
+		  "riki_permanent_invisibility",
+		  "riki_backstab",
+		  "abaddon_borrowed_time",
+		  "skeleton_king_reincarnation"
+		],
+		"id": "76561198067066869"
+	  },
+	  {
+		"id": "76561198273382285",
+		"bans": [
+		  "spell_lab_souls_damage",
+		  "basic_xpm_bonus",
+		  "angel_arena_razor_power"
+		]
+	  },
+	  {
+		"id": "76561198062283160",
+		"bans": [
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_bristleback",
+		  "npc_dota_hero_axe",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_necrolyte",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_lich",
+		  "npc_dota_hero_lion",
+		  "npc_dota_hero_bloodseeker",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_riki",
+		  "npc_dota_hero_phantom_assassin",
+		  "npc_dota_hero_pudge",
+		  "npc_dota_hero_windrunner",
+		  "npc_dota_hero_chaos_knight",
+		  "npc_dota_hero_oracle"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_chaos_knight"
+		],
+		"id": "76561198044368629"
 	  }
 	]
 }
