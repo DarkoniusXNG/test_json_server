@@ -3214,10 +3214,19 @@
 		]
 	  },
 	  {
+		"id": "76561198044368629",
 		"bans": [
 		  "npc_dota_hero_chaos_knight"
+		]
+	  },
+	  {
+		"bans": [
+		  "spell_lab_survivor_tenacity",
+		  "spell_lab_survivor_spell_vamp",
+		  "spell_lab_survivor_str_survival",
+		  "spell_lab_survivor_mana_regen"
 		],
-		"id": "76561198044368629"
+		"id": "76561198253233493"
 	  }
 	]
 }
