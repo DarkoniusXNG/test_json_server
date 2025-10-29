@@ -3286,6 +3286,13 @@
 		  "spell_lab_survivor_mana_regen"
 		],
 		"id": "76561198253233493"
+	  },
+	  {
+		"bans": [
+		  "ebf_clinkz_trickshot",
+		  "ebf_clinkz_trickshot_passive"
+		],
+		"id": "76561198001961614"
 	  }
 	]
 }
