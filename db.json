@@ -3328,12 +3328,12 @@
 		"id": "76561198253233493"
 	  },
 	  {
-		"id": "76561198001961614",
 		"bans": [
 		  "imba_tower_multihit",
 		  "ebf_clinkz_trickshot",
 		  "ebf_clinkz_trickshot_passive"
-		]
+		],
+		"id": "76561198001961614"
 	  }
 	]
 }
