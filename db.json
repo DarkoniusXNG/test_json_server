@@ -3980,13 +3980,31 @@
 		  "npc_dota_hero_monkey_king",
 		  "npc_dota_hero_gyrocopter",
 		  "npc_dota_hero_vengefulspirit",
-		  "npc_dota_hero_medusa"
+		  "npc_dota_hero_medusa",
+		  "drow_splitshot",
+		  "npc_dota_hero_weaver",
+		  "npc_dota_hero_pudge",
+		  "side_gunner_redux",
+		  "eldri_anti_magic",
+		  "beastmaster_hawk_perch",
+		  "bane_fiends_grip",
+		  "roshan_bash",
+		  "aabs_thunder_musket"
 		],
 		"id": "76561198345116781"
 	  },
 	  {
 		"bans": [
 		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "abaddon_borrowed_time"
+		],
+		"id": "76561198071897786"
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_bloodseeker",
 		  "npc_dota_hero_bounty_hunter"
 		],
 		"id": "76561198086194680"
