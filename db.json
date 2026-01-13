@@ -2872,14 +2872,6 @@
 		]
 	  },
 	  {
-		"id": "76561198068954375",
-		"bans": [
-		  "ebf_clinkz_trickshot_passive",
-		  "imba_tower_multihit",
-		  "imba_tower_split"
-		]
-	  },
-	  {
 		"bans": [
 		  "npc_dota_hero_death_prophet",
 		  "death_prophet_silence",
@@ -3870,16 +3862,6 @@
 		]
 	  },
 	  {
-		"bans": [
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_viper",
-		  "npc_dota_hero_oracle",
-		  "npc_dota_hero_dazzle",
-		  "npc_dota_hero_bane"
-		],
-		"id": "76561198143554846"
-	  },
-	  {
 		"id": "76561198166020096",
 		"bans": [
 		  "axe_berserkers_call_op",
@@ -4383,11 +4365,46 @@
 	  },
 	  {
 		"bans": [
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_bloodseeker",
-		  "npc_dota_hero_bounty_hunter"
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_skeleton_king"
 		],
-		"id": "76561198086194680"
+		"id": "76561198176002245"
+	  },
+	  {
+		"id": "76561198086194680",
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_bloodseeker"
+		]
+	  },
+	  {
+		"bans": [
+		  "ebf_clinkz_trickshot_passive",
+		  "imba_tower_multihit",
+		  "imba_tower_split",
+		  "angel_arena_razor_power_OP"
+		],
+		"id": "76561198068954375"
+	  },
+	  {
+		"id": "76561198143554846",
+		"bans": [
+		  "npc_dota_hero_viper",
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_oracle",
+		  "slark_shadow_dance",
+		  "jakiro_ice_path"
+		]
+	  },
+	  {
+		"bans": [
+		  "abaddon_borrowed_time",
+		  "imba_abaddon_borrowed_time"
+		],
+		"id": "76561198022285624"
 	  }
 	]
 }
