@@ -4037,12 +4037,6 @@
 		"id": "76561198070149308"
 	  },
 	  {
-		"bans": [
-		  "npc_dota_hero_oracle"
-		],
-		"id": "76561198161051994"
-	  },
-	  {
 		"id": "76561198040696305",
 		"bans": [
 		  "android_pocket_factory",
@@ -4559,14 +4553,6 @@
 		"id": "76561198176002245"
 	  },
 	  {
-		"id": "76561198086194680",
-		"bans": [
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_bloodseeker"
-		]
-	  },
-	  {
 		"bans": [
 		  "ebf_clinkz_trickshot_passive",
 		  "imba_tower_multihit",
@@ -4588,11 +4574,32 @@
 		]
 	  },
 	  {
+		"id": "76561198086194680",
 		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_bloodseeker",
+		  "riki_permanent_invisibility"
+		]
+	  },
+	  {
+		"id": "76561198161051994",
+		"bans": [
+		  "alchemist_chemical_rage",
+		  "riki_permanent_invisibility",
+		  "npc_dota_hero_oracle",
+		  "oracle_false_promise",
 		  "abaddon_borrowed_time",
-		  "imba_abaddon_borrowed_time"
-		],
-		"id": "76561198022285624"
+		  "slark_shadow_dance",
+		  "skeleton_king_reincarnation"
+		]
+	  },
+	  {
+		"id": "76561198022285624",
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "abaddon_borrowed_time"
+		]
 	  }
 	]
 }
