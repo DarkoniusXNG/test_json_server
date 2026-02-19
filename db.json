@@ -4288,14 +4288,6 @@
 		"id": "76561198067066869"
 	  },
 	  {
-		"id": "76561198273382285",
-		"bans": [
-		  "spell_lab_souls_damage",
-		  "basic_xpm_bonus",
-		  "angel_arena_razor_power"
-		]
-	  },
-	  {
 		"id": "76561198062283160",
 		"bans": [
 		  "npc_dota_hero_bane",
@@ -4751,6 +4743,14 @@
 		"bans": [
 		  "npc_dota_hero_skeleton_king",
 		  "abaddon_borrowed_time"
+		]
+	  },
+	  {
+		"id": "76561198273382285",
+		"bans": [
+		  "spell_lab_souls_damage",
+		  "angel_arena_razor_power",
+		  "imba_venomancer_plague_ward"
 		]
 	  }
 	]
