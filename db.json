@@ -4836,6 +4836,58 @@
 		  "angel_arena_razor_power",
 		  "imba_venomancer_plague_ward"
 		]
+	  },
+	  {
+		"id": "76561198128085973",
+		"bans": [
+		  "npc_dota_hero_pudge",
+		  "dragon_knight_dragon_blood",
+		  "axe_counter_helix",
+		  "skeleton_king_reincarnation",
+		  "shredder_reactive_armor",
+		  "abaddon_borrowed_time",
+		  "bristleback_bristleback",
+		  "bloodseeker_thirst",
+		  "bloodseeker_thirst_lod",
+		  "drow_ranger_marksmanship",
+		  "sniper_take_aim",
+		  "slark_essence_shift",
+		  "slark_shadow_dance",
+		  "slark_essence_shift_intellect_lod",
+		  "slark_essence_shift_agility_lod",
+		  "riki_backstab",
+		  "riki_permanent_invisibility",
+		  "phantom_assassin_blur",
+		  "phantom_assassin_coup_de_grace",
+		  "ogre_magi_multicast",
+		  "ogre_magi_multicast_lod",
+		  "ursa_fury_swipes",
+		  "ursa_fury_swipes_lod",
+		  "medusa_split_shot",
+		  "luna_moon_glaive",
+		  "alchemist_chemical_rage",
+		  "silencer_glaives_of_wisdom",
+		  "imba_tower_essence_drain",
+		  "imba_tower_grievous_wounds"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_lich",
+		  "npc_dota_hero_warlock",
+		  "npc_dota_hero_riki",
+		  "npc_dota_hero_bounty_hunter"
+		],
+		"id": "76561198306521036"
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_viper",
+		  "ursa_fury_swipes",
+		  "ursa_fury_swipes_lod",
+		  "tiny_avalanche"
+		],
+		"id": "76561198093561927"
 	  }
 	]
 }
