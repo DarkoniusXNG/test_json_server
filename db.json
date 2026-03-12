@@ -5011,13 +5011,6 @@
 	  },
 	  {
 		"bans": [
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_skeleton_king"
-		],
-		"id": "76561198176002245"
-	  },
-	  {
-		"bans": [
 		  "ebf_clinkz_trickshot_passive",
 		  "imba_tower_multihit",
 		  "imba_tower_split",
@@ -5035,15 +5028,6 @@
 		  "npc_dota_hero_oracle",
 		  "slark_shadow_dance",
 		  "jakiro_ice_path"
-		]
-	  },
-	  {
-		"id": "76561198086194680",
-		"bans": [
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_bloodseeker",
-		  "riki_permanent_invisibility"
 		]
 	  },
 	  {
@@ -5115,15 +5099,6 @@
 		  "npc_dota_hero_bounty_hunter"
 		],
 		"id": "76561198306521036"
-	  },
-	  {
-		"bans": [
-		  "npc_dota_hero_viper",
-		  "ursa_fury_swipes",
-		  "ursa_fury_swipes_lod",
-		  "tiny_avalanche"
-		],
-		"id": "76561198093561927"
 	  },
 	  {
 		"id": "76561198047379264",
@@ -5489,6 +5464,54 @@
 		  "npc_dota_hero_lina",
 		  "npc_dota_hero_lion"
 		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_skeleton_king",
+		  "riki_permanent_invisibility"
+		],
+		"id": "76561198176002245"
+	  },
+	  {
+		"id": "76561198093561927",
+		"bans": [
+		  "abaddon_borrowed_time",
+		  "skeleton_king_reincarnation"
+		]
+	  },
+	  {
+		"id": "76561198450002230",
+		"bans": [
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_bloodseeker",
+		  "angel_arena_razor_power_OP",
+		  "ebf_clinkz_trickshot_passive",
+		  "imba_tower_sniper",
+		  "imba_tower_multihit",
+		  "imba_tower_salvo",
+		  "imba_tower_grievous_wounds",
+		  "imba_tower_essence_drain",
+		  "imba_tower_fervor",
+		  "riki_permanent_invisibility"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_bloodseeker",
+		  "riki_permanent_invisibility",
+		  "angel_arena_razor_power_OP",
+		  "imba_tower_multihit",
+		  "imba_tower_essence_drain",
+		  "imba_tower_sniper",
+		  "imba_tower_salvo",
+		  "imba_tower_multishot",
+		  "imba_tower_grievous_wounds"
+		],
+		"id": "76561198086194680"
 	  }
 	]
 }
