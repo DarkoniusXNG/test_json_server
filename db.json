@@ -5562,13 +5562,6 @@
 		"id": "76561198176002245"
 	  },
 	  {
-		"id": "76561198093561927",
-		"bans": [
-		  "abaddon_borrowed_time",
-		  "skeleton_king_reincarnation"
-		]
-	  },
-	  {
 		"id": "76561198450002230",
 		"bans": [
 		  "npc_dota_hero_bounty_hunter",
@@ -5600,6 +5593,56 @@
 		  "imba_tower_grievous_wounds"
 		],
 		"id": "76561198086194680"
+	  },
+	  {
+		"id": "76561198109139059",
+		"bans": [
+		  "npc_dota_hero_zuus",
+		  "npc_dota_hero_witch_doctor",
+		  "npc_dota_hero_oracle",
+		  "npc_dota_hero_lion",
+		  "npc_dota_hero_skywrath_mage",
+		  "npc_dota_hero_lina",
+		  "npc_dota_hero_jakiro",
+		  "npc_dota_hero_lich",
+		  "npc_dota_hero_crystal_maiden",
+		  "npc_dota_hero_bloodseeker",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_phantom_assassin",
+		  "npc_dota_hero_drow_ranger",
+		  "npc_dota_hero_luna",
+		  "npc_dota_hero_sniper",
+		  "npc_dota_hero_earthshaker",
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_windrunner",
+		  "npc_dota_hero_sand_king",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_juggernaut"
+		]
+	  },
+	  {
+		"bans": [
+		  "slark_shadow_dance",
+		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "npc_dota_hero_abaddon",
+		  "abaddon_borrowed_time",
+		  "npc_dota_hero_slark"
+		],
+		"id": "76561198272762909"
+	  },
+	  {
+		"bans": [
+		  "abaddon_borrowed_time",
+		  "alchemist_chemical_rage",
+		  "skeleton_king_reincarnation",
+		  "ursa_fury_swipes",
+		  "ursa_fury_swipes_lod",
+		  "imba_tower_grievous_wounds",
+		  "oracle_false_promise",
+		  "slark_shadow_dance"
+		],
+		"id": "76561198093561927"
 	  }
 	]
 }
