@@ -4433,15 +4433,6 @@
 		]
 	  },
 	  {
-		"bans": [
-		  "npc_dota_hero_skeleton_king",
-		  "skeleton_king_reincarnation",
-		  "npc_dota_hero_abaddon",
-		  "abaddon_borrowed_time"
-		],
-		"id": "76561198165510020"
-	  },
-	  {
 		"id": "76561198097124010",
 		"bans": [
 		  "npc_dota_hero_skeleton_king",
@@ -5661,18 +5652,6 @@
 		"id": "76561198068954375"
 	  },
 	  {
-		"id": "76561198143554846",
-		"bans": [
-		  "npc_dota_hero_viper",
-		  "npc_dota_hero_bane",
-		  "npc_dota_hero_dazzle",
-		  "npc_dota_hero_skeleton_king",
-		  "npc_dota_hero_oracle",
-		  "slark_shadow_dance",
-		  "jakiro_ice_path"
-		]
-	  },
-	  {
 		"id": "76561198161051994",
 		"bans": [
 		  "alchemist_chemical_rage",
@@ -6217,14 +6196,6 @@
 		"id": "76561198093561927"
 	  },
 	  {
-		"id": "76561198086194680",
-		"bans": [
-		  "riki_permanent_invisibility",
-		  "npc_dota_hero_bounty_hunter",
-		  "npc_dota_hero_skeleton_king"
-		]
-	  },
-	  {
 		"id": "76561199756804799",
 		"bans": [
 		  "npc_dota_hero_bristleback",
@@ -6509,6 +6480,63 @@
 		"id": "76561198317406252"
 	  },
 	  {
+		"id": "76561198394087306",
+		"bans": [
+		  "npc_dota_hero_chaos_knight",
+		  "npc_dota_hero_death_prophet"
+		]
+	  },
+	  {
+		"id": "76561198143554846",
+		"bans": [
+		  "npc_dota_hero_viper",
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_oracle",
+		  "slark_shadow_dance",
+		  "jakiro_ice_path"
+		]
+	  },
+	  {
+		"id": "76561198165510020",
+		"bans": [
+		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "npc_dota_hero_abaddon",
+		  "abaddon_borrowed_time"
+		]
+	  },
+	  {
+		"id": "76561198086194680",
+		"bans": [
+		  "abaddon_borrowed_time",
+		  "riki_permanent_invisibility",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_skeleton_king",
+		  "skeleton_king_reincarnation",
+		  "slark_shadow_dance",
+		  "angel_arena_razor_power_OP",
+		  "ebf_clinkz_trickshot_passive",
+		  "imba_tower_split",
+		  "imba_tower_sniper",
+		  "imba_tower_multishot",
+		  "imba_tower_machinegun",
+		  "imba_tower_multihit"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_necrolyte",
+		  "npc_dota_hero_bane",
+		  "bane_nightmare",
+		  "bane_fiends_grip",
+		  "necrolyte_reapers_scythe"
+		],
+		"id": "76561198194868978"
+	  },
+	  {
+		"id": "76561198102798132",
 		"bans": [
 		  "npc_dota_hero_alchemist",
 		  "npc_dota_hero_warlock",
@@ -6516,15 +6544,11 @@
 		  "npc_dota_hero_abaddon",
 		  "abaddon_borrowed_time",
 		  "skeleton_king_reincarnation",
-		  "shredder_reactive_armor"
-		],
-		"id": "76561198102798132"
-	  },
-	  {
-		"id": "76561198394087306",
-		"bans": [
-		  "npc_dota_hero_chaos_knight",
-		  "npc_dota_hero_death_prophet"
+		  "shredder_reactive_armor",
+		  "slark_shadow_dance",
+		  "alchemist_chemical_rage",
+		  "npc_dota_hero_skeleton_king",
+		  "roshan_spell_block"
 		]
 	  }
 	]
