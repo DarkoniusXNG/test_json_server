@@ -6757,6 +6757,28 @@
 		  "npc_dota_hero_omniknight"
 		],
 		"id": "76561198143554846"
+	  },
+	  {
+		"bans": [
+		  "riki_backstab",
+		  "riki_permanent_invisibility",
+		  "imba_riki_cloak_and_dagger",
+		  "imba_abaddon_borrowed_time",
+		  "abaddon_borrowed_time",
+		  "slark_shadow_dance",
+		  "npc_dota_hero_riki",
+		  "npc_dota_hero_vengefulspirit",
+		  "npc_dota_hero_bounty_hunter",
+		  "npc_dota_hero_clinkz",
+		  "npc_dota_hero_invoker",
+		  "npc_dota_hero_necrolyte",
+		  "npc_dota_hero_oracle",
+		  "npc_dota_hero_abaddon",
+		  "npc_dota_hero_dazzle",
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_skeleton_king"
+		],
+		"id": "76561198066482854"
 	  }
 	]
 }
