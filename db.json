@@ -7012,6 +7012,24 @@
 		  "npc_dota_hero_skeleton_king"
 		],
 		"id": "76561198066482854"
+	  },
+	  {
+		"id": "76561198115859422",
+		"bans": [
+		  "riki_backstab",
+		  "riki_permanent_invisibility",
+		  "imba_riki_cloak_and_dagger",
+		  "imba_wraith_king_reincarnation",
+		  "skeleton_king_reincarnation",
+		  "slark_shadow_dance",
+		  "lycan_summon_wolves_invisibility",
+		  "invoker_retro_invisibility_aura",
+		  "invoker_retro_invisibility_aura_tower",
+		  "mirana_invis_redux",
+		  "mirana_invis",
+		  "npc_dota_hero_skeleton_king",
+		  "npc_dota_hero_riki"
+		]
 	  }
 	]
 }
