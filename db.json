@@ -6790,70 +6790,6 @@
 		"id": "76561198093561927"
 	  },
 	  {
-		"id": "76561199756804799",
-		"bans": [
-		  "npc_dota_hero_bristleback",
-		  "bristleback_viscous_nasal_goo",
-		  "bristleback_quill_spray",
-		  "bristleback_bristleback",
-		  "bristleback_hairball",
-		  "bristleback_warpath",
-		  "bristleback_prickly",
-		  "bristleback_brawlers_grit",
-		  "tiny_avalanche",
-		  "npc_dota_hero_bounty_hunter",
-		  "bounty_hunter_shuriken_toss",
-		  "bounty_hunter_jinada",
-		  "bounty_hunter_wind_walk",
-		  "bounty_hunter_wind_walk_ally",
-		  "bounty_hunter_big_game_hunter",
-		  "bounty_hunter_track",
-		  "bounty_hunter_cutpurse",
-		  "npc_dota_hero_bane",
-		  "bane_enfeeble",
-		  "bane_brain_sap",
-		  "bane_nightmare",
-		  "bane_fiends_grip",
-		  "bane_ichor_of_nyctasha",
-		  "npc_dota_hero_jakiro",
-		  "jakiro_dual_breath",
-		  "jakiro_ice_path",
-		  "jakiro_liquid_fire",
-		  "jakiro_liquid_ice",
-		  "jakiro_double_trouble",
-		  "jakiro_macropyre",
-		  "npc_dota_hero_lion",
-		  "lion_impale",
-		  "lion_voodoo",
-		  "lion_mana_drain",
-		  "lion_to_hell_and_back",
-		  "lion_finger_of_death",
-		  "npc_dota_hero_shadow_shaman",
-		  "shadow_shaman_ether_shock",
-		  "shadow_shaman_voodoo",
-		  "shadow_shaman_shackles",
-		  "shadow_shaman_fowl_play",
-		  "shadow_shaman_urnaconda",
-		  "shadow_shaman_mass_serpent_ward",
-		  "shadow_shaman_voodoo_hands",
-		  "shadow_shaman_serpentine",
-		  "npc_dota_hero_viper",
-		  "viper_poison_attack",
-		  "viper_nethertoxin",
-		  "viper_corrosive_skin",
-		  "viper_nose_dive",
-		  "viper_predator",
-		  "viper_viper_strike",
-		  "npc_dota_hero_necrolyte",
-		  "necrolyte_death_pulse",
-		  "necrolyte_ghost_shroud",
-		  "necrolyte_heartstopper_aura",
-		  "necrolyte_death_seeker",
-		  "necrolyte_sadist",
-		  "necrolyte_reapers_scythe"
-		]
-	  },
-	  {
 		"bans": [
 		  "slark_shadow_dance",
 		  "npc_dota_hero_slark",
@@ -7202,6 +7138,75 @@
 		  "npc_dota_hero_skeleton_king",
 		  "npc_dota_hero_riki"
 		]
+	  },
+	  {
+		"bans": [
+		  "skeleton_king_reincarnation",
+		  "slark_shadow_dance",
+		  "abaddon_borrowed_time",
+		  "npc_dota_hero_abaddon",
+		  "npc_dota_hero_slark",
+		  "npc_dota_hero_skeleton_king"
+		],
+		"id": "76561198106016298"
+	  },
+	  {
+		"id": "76561198160195497",
+		"bans": [
+		  "npc_dota_hero_bane",
+		  "npc_dota_hero_pudge"
+		]
+	  },
+	  {
+		"bans": [
+		  "npc_dota_hero_bane",
+		  "bane_enfeeble",
+		  "bane_brain_sap",
+		  "bane_nightmare",
+		  "bane_fiends_grip",
+		  "bane_ichor_of_nyctasha",
+		  "npc_dota_hero_chaos_knight",
+		  "chaos_knight_chaos_bolt",
+		  "chaos_knight_reality_rift",
+		  "chaos_knight_chaos_strike",
+		  "chaos_knight_fundamental_forging",
+		  "chaos_knight_reins_of_chaos",
+		  "chaos_knight_phantasmagoria",
+		  "chaos_knight_phantasm"
+		],
+		"id": "76561199756804799"
+	  },
+	  {
+		"bans": [
+		  "abyssal_underling_warrior_last_will",
+		  "ancient_apparition_ice_blast",
+		  "brewmaster_primal_split",
+		  "brewmaster_earth_hurl_boulder",
+		  "dazzle_good_juju",
+		  "doom_bringer_doom",
+		  "bane_fiends_grip",
+		  "huskar_berserkers_blood",
+		  "medusa_mana_shield",
+		  "marci_unleash",
+		  "muerta_spectral_slug",
+		  "nyx_assassin_burrow",
+		  "tinker_heat_seeking_missile",
+		  "tinker_rearm",
+		  "windrunner_focusfire",
+		  "weaver_rewoven",
+		  "weaver_the_swarm",
+		  "visage_summon_familiars_stone_form",
+		  "roshan_bash",
+		  "roshan_grab_and_throw",
+		  "roshan_revengeroar",
+		  "roshan_slam",
+		  "roshan_spell_block",
+		  "npc_dota_hero_weaver",
+		  "lone_druid_true_form",
+		  "alchemist_chemical_rage",
+		  "necronomicon_warrior_last_will_lod"
+		],
+		"id": "76561198327618227"
 	  }
 	]
 }
